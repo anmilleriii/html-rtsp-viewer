@@ -14,9 +14,9 @@ View an RTSP stream from the browser via Node.
 
 
 
+run shell while
 
-
-
+`chmod u+x rstp-to-hls.sh`
 ## 
 
 
